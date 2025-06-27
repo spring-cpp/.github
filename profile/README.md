@@ -20,4 +20,5 @@ Go 是我的第三门语言，也是我现在的主力语言，相比 Java 我�
 但实际上我是因为想把 Spring 迁移到 C++ 里才启动的 Go-Spring 项目，
 因为我相信终有一天 C++ 也会实现反射，哪怕是编译期反射，那么 C++ 就有实现 Spring 的可能。
 
-随着 C++26 中静态反射的落地，是时候启动 Spring-Cpp 项目了。
+现在 [Go-Spring](https://github.com/go-spring) 已成，
+随着 C++26 中静态反射的落地，是时候启动 Spring-Cpp 项目了！
